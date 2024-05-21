@@ -64,7 +64,22 @@
   Throughout the years I've worked with HTML, CSS, JS, ReactJS, Ruby and I've dabbled in C#, and recently I've starting working in TypeScript with React. After some time trying to decide between game development, software development and web development, I decided on web development.
 </p>
 
+<h2>Some projects:</h2>
+<h3>The Guild</h3>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=williamgrant04&repo=the-guild">
+
+<h3>Destiny loadout manager</h3>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=williamgrant04&repo=destinyloadoutmanager">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=williamgrant04&repo=destinyLoadoutManager-api">
+
+
 <h2>Some stats:</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=williamgrant04">
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamgrant04&hide=dockerfile,shell&exclude_repo=rent-a-peer,rails-watch-list,rails-yelp-mvp,rails-task-manager,rails-wikinimous,rails-longest-word-game,rails-stupid-coaching,rails-simple-airbnb&layout=donut">
+<br>
+<br>
+<em>Contact me:</em>
+
+williamgrant.important+github@gmail.com
+<a href="https://www.linkedin.com/in/william-g-422b1529b/">Linkedin</a>
