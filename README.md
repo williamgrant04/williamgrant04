@@ -82,4 +82,5 @@
 <em>Contact me:</em>
 
 williamgrant.important+github@gmail.com
+<br>
 <a href="https://www.linkedin.com/in/william-g-422b1529b/">Linkedin</a>
