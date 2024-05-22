@@ -61,7 +61,7 @@
   Hi, I'm William, or Will. I've always been interested in something computers and code, even since primary school, I would drive the IT guys crazy by messing around with settings and I would play around with inspect element and change styles on random webpages.
 </p>
 <p>
-  Throughout the years I've worked with HTML, CSS, JS, ReactJS, Ruby and I've dabbled in C#, and recently I've starting working in TypeScript with React. After some time trying to decide between game development, software development and web development, I decided on web development.
+  Throughout the years I've worked with HTML, CSS, JS, ReactJS, Ruby and I've dabbled in C#, and recently I've started working in TypeScript with React. After some time trying to decide between game development, software development and web development, I decided on web development.
 </p>
 
 <h2>Some projects:</h2>
