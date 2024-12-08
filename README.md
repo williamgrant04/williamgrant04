@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/837aee0e-4fc9-4b57-aa4d-677da456ab58)
 <h1>Hi, I'm Will</h1>
 <em><strong>Junior full-stack web developer</strong></em>
 
