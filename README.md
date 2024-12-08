@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/837aee0e-4fc9-4b57-aa4d-677da456ab58)
 <h1>Hi, I'm Will</h1>
 <em><strong>Junior full-stack web developer</strong></em>
 
@@ -10,6 +10,9 @@
     <th>Front-end</th>
     <td>
       <img alt="Javscript" title="Javascript" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="75px" width="75px">
+    </td>
+    <td>
+      <img alt="Typescript" title="Typescript" src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-2048x2048-2rhh1z66.png" width="75px" height="75px">
     </td>
     <td>
       <img alt="ReactJS" title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="75px">
@@ -26,7 +29,7 @@
   </tr>
   <tr>
     <th>Back-end</th>
-    <td colspan="2" style="text-align: center;">
+    <td colspan="3" style="text-align: center;">
       <img alt="Ruby" title="Ruby" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/2048px-Ruby_logo.svg.png" height="75px" width="75px">
     </td>
     <td colspan="3" style="text-align: center;">
@@ -52,6 +55,9 @@
     </td>
     <td>
       <img alt="GitHub" title="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="75px" width="75px">
+    </td>
+    <td>
+      <img alt="Vite" title="Vite" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" height="75px" width="75px">
     </td>
   </tr>
 </table>
