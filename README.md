@@ -61,22 +61,16 @@
   </tr>
 </table>
 
-<h2>About me:</h2>
-<p>
-  Hi, I'm William, or Will. I've always been interested in something computers and code, even since primary school, I would drive the IT guys crazy by messing around with settings and I would play around with inspect element and change styles on random webpages.
-</p>
-<p>
-  Throughout the years I've worked with HTML, CSS, JS, ReactJS, Ruby and I've dabbled in C#, and recently I've started working in TypeScript with React. After some time trying to decide between game development, software development and web development, I decided on web development.
-</p>
-
 <h2>Some projects:</h2>
 <h3>The Guild</h3>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=williamgrant04&repo=the-guild">
+
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=williamgrant04&repo=the-guild">](https://github.com/williamgrant04/the-guild)
 
 <h3>Destiny loadout manager</h3>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=williamgrant04&repo=destinyloadoutmanager">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=williamgrant04&repo=destinyLoadoutManager-api">
 
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=williamgrant04&repo=destinyloadoutmanager">](https://github.com/williamgrant04/destinyLoadoutManager)
+<br>
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=williamgrant04&repo=destinyLoadoutManager-api">](https://github.com/williamgrant04/destinyLoadoutManager-api)
 
 <h2>Some stats:</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=williamgrant04">
@@ -88,4 +82,4 @@
 
 williamgrant.important+github@gmail.com
 <br>
-<a href="https://www.linkedin.com/in/william-g-422b1529b/">Linkedin</a>
+<a href="https://www.linkedin.com/in/williamgrant-/">Linkedin</a>
