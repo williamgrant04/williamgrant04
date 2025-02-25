@@ -67,7 +67,7 @@
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=williamgrant04&repo=the-guild">](https://github.com/williamgrant04/the-guild)
 
 <h3>Chat app</h3>
-<p>This was a simple chat application built using React, Tanstack Router and Ruby on Rails. Featuring the ability to create servers and channels, invite users, and have users communicate with each other instantly.</p>
+<p>This is a simple chat application built using React, Tanstack Router and Ruby on Rails. Featuring the ability to create servers and channels, invite users, and have users communicate with each other instantly.</p>
 
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=williamgrant04&repo=chatClient">](https://github.com/williamgrant04/chatClient)
 <br>
