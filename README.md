@@ -74,8 +74,6 @@
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=williamgrant04&repo=chatServer">](https://github.com/williamgrant04/chatServer)
 
 <h2>Some stats:</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=williamgrant04">
-<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamgrant04&hide=dockerfile,shell&exclude_repo=rent-a-peer,rails-watch-list,rails-yelp-mvp,rails-task-manager,rails-wikinimous,rails-longest-word-game,rails-stupid-coaching,rails-simple-airbnb&layout=donut">
 <br>
 <br>
