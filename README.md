@@ -66,11 +66,12 @@
 
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=williamgrant04&repo=the-guild">](https://github.com/williamgrant04/the-guild)
 
-<h3>Destiny loadout manager</h3>
+<h3>Chat app</h3>
+<p>This was a simple chat application built using React, Tanstack Router and Ruby on Rails. Featuring the ability to create servers and channels, invite users, and have users communicate with each other instantly.</p>
 
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=williamgrant04&repo=destinyloadoutmanager">](https://github.com/williamgrant04/destinyLoadoutManager)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=williamgrant04&repo=chatClient">](https://github.com/williamgrant04/chatClient)
 <br>
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=williamgrant04&repo=destinyLoadoutManager-api">](https://github.com/williamgrant04/destinyLoadoutManager-api)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=williamgrant04&repo=chatServer">](https://github.com/williamgrant04/chatServer)
 
 <h2>Some stats:</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=williamgrant04">
