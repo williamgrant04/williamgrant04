@@ -11,7 +11,7 @@
       <img alt="Javscript" title="Javascript" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="75px" width="75px">
     </td>
     <td>
-      <img alt="Typescript" title="Typescript" src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-2048x2048-2rhh1z66.png" width="75px" height="75px">
+      <img alt="Typescript" title="Typescript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1024px-Typescript.svg.png" width="75px" height="75px">
     </td>
     <td>
       <img alt="ReactJS" title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="75px">
