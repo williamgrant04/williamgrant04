@@ -11,13 +11,13 @@
       <img alt="Javscript" title="Javascript" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="75px" width="75px">
     </td>
     <td>
-      <img alt="Typescript" title="Typescript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1024px-Typescript.svg.png" width="75px" height="75px">
+      <img alt="Typescript" title="Typescript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/960px-Typescript.svg.png" width="75px" height="75px">
     </td>
     <td>
       <img alt="ReactJS" title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="75px">
     </td>
     <td>
-      <img alt="HTML5" title="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" height="75px" width="75px">
+      <img alt="HTML5" title="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/960px-HTML5_logo_and_wordmark.svg.png" height="75px" width="75px">
     </td>
     <td>
       <img alt="CSS3" title="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="75px">
@@ -32,7 +32,7 @@
       <img alt="Ruby" title="Ruby" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/2048px-Ruby_logo.svg.png" height="75px" width="75px">
     </td>
     <td colspan="3" style="text-align: center;">
-      <img alt="Ruby on Rails" title="Ruby on Rails" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/2560px-Ruby_On_Rails_Logo.svg.png" height="75px">
+      <img alt="Ruby on Rails" title="Ruby on Rails" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1920px-Ruby_On_Rails_Logo.svg.png" height="75px">
     </td>
   </tr>
 </table>
@@ -41,13 +41,13 @@
 <table>
   <tr>
     <td>
-      <img alt="Visual studio code" title="VS Code" src="https://code.visualstudio.com/assets/images/code-stable.png" height="75px" width="75px">
+      <img alt="Visual studio code" title="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/960px-Visual_Studio_Code_1.35_icon.svg.png" height="75px" width="75px">
     </td>
     <td>
       <img alt="Heroku" title="Heroku" src="https://cdn.iconscout.com/icon/free/png-256/free-heroku-225989.png?f=webp" height="75px" width="75px">
     </td>
     <td>
-      <img alt="PostgreSQL" title="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" height="75px" width="75px">
+      <img alt="PostgreSQL" title="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png" height="75px" width="75px">
     </td>
     <td>
       <img alt="Git" title="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" height="75px" width="75px">
@@ -73,8 +73,6 @@
 <br>
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=williamgrant04&repo=chatServer">](https://github.com/williamgrant04/chatServer)
 
-<h2>Some stats:</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamgrant04&hide=dockerfile,shell&exclude_repo=rent-a-peer,rails-watch-list,rails-yelp-mvp,rails-task-manager,rails-wikinimous,rails-longest-word-game,rails-stupid-coaching,rails-simple-airbnb&layout=donut">
 <br>
 <br>
 <em>Contact me:</em>
